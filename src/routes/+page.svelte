@@ -1,8 +1,5 @@
 <script lang="ts">
   import SpotifyWebApi from "spotify-web-api-node";
-  
-  import eruda from 'eruda';
-  eruda.init();
 
   const clientId = "dd146803015d46ed82fde33770c21e96";
   const clientSecret = "d5e6038902e6479a85d6bc8f947961b1";
